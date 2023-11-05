@@ -26,3 +26,16 @@ body {
     align-items: center; /*Vertical aligmet*/
     justify-content: space-between; /*horizontal alignment*/
 }
+
+.search input {
+    border: 0;
+    outline: 0;
+    background-color: white;
+    color: #3c280d;
+    padding: 10px 25px;
+    height: 60px;
+    flex: 1;
+    border-radius: 30px;
+    margin-right: 16px;
+    font-size: 18px;
+}
