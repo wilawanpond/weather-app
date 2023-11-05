@@ -8,3 +8,14 @@
 body {
     background-color: #ffc2d1;
 }
+
+.container {
+    width: 90%;
+    max-width: 470px;
+    background-color: #ff8fab;
+    color: white;
+    border-radius: 20px;
+    margin: 100px auto;
+    padding: 40px 35px;
+    text-align: center;
+}
