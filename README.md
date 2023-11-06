@@ -13,16 +13,19 @@ Here are what I have learned from this project:
 ## Setting Up Your API Key 💗
 I use the free subscription plan, so there are some limitations. I recommend you to get your own API from this [OpenWeatherMap API](https://openweathermap.org/api) website.  
 After you get your API key, you can reaplce it in "YOUR-API-KEY" in [script.js](script.js) file as shown in code below;  
-``
+```JavaScript
 const apiKey ="YOUR-API-KEY";
-const apiURL ="https://api.openweathermap.org/data/2.5/weather?units=metric&q=";``  
+const apiURL ="https://api.openweathermap.org/data/2.5/weather?units=metric&q=";
+```
 
 ### For the `apiURL` Link
 In the ur, I also added `units=metric` to convert the temperature to degree celcius, feel free to edit it to your choice.  
 
 ## Installation 💗
 1. Clone the repository of this project, open your terminal and run the following command  
-``git clone https://github.com/wilawanpond/weather-app.git``
+```
+git clone https://github.com/wilawanpond/weather-app.git
+```
 2. Set up your API key in `script.js` file.
 3. Open the `index.html` file in your web browser to view the project.
 
