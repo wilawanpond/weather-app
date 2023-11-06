@@ -8,7 +8,7 @@
 https://github.com/wilawanpond/weather-app/assets/79263616/a44276cb-592f-4408-93a8-e48642ba46d6
 
 
-This is a super simple real-time weather app that you can look at the weather condition, current temperature, humidity, and wind speed！I made this project with HTML, CSS, JavaScript, and using [OpenWeatherMap API](https://openweathermap.org/api). This is also my first time playing around with the concept of using API, it was super fun trying something new! I commented the code thoroughly, so you guys can follow along while understanding the functionality of the code.
+This is a super simple real-time weather app that you can look at the weather condition, current temperature, humidity, and wind speed for the specific city! I made this project with HTML, CSS, JavaScript, and using [OpenWeatherMap API](https://openweathermap.org/api). This is also my first time playing around with the concept of using API, it was super fun trying something new! I commented the code thoroughly, so you guys can follow along while understanding the functionality of the code.
 
 Here are what I have learned from this project:  
 * Getting to know more about the API concept
