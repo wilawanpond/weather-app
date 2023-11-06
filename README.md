@@ -19,7 +19,7 @@ const apiURL ="https://api.openweathermap.org/data/2.5/weather?units=metric&q=";
 ```
 
 ### For the `apiURL` Link
-In the ur, I also added `units=metric` to convert the temperature to degree celcius, feel free to edit it to your choice.  
+In the url, I also added `units=metric` to convert the temperature to degree celcius, feel free to edit it to your choice.  
 
 ## Installation 💗
 1. Clone the repository of this project, open your terminal and run the following command  
