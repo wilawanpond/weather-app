@@ -34,7 +34,7 @@ git clone https://github.com/wilawanpond/weather-app.git
 2. Set up your API key in `script.js` file.
 3. Open the `index.html` file in your web browser to view the project.
 
-## Contrinuting 💗
+## Contributing 💗
 If you would like to submit an improvement to this project, please submit an issue using the issues tab first (in detailed explanation must be nice) and if you would like to submit a pull request, please reference the issue you created.
 
 ## License 💗
